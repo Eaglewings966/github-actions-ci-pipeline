@@ -23,7 +23,7 @@ jobs:
       - name: Build image
         run: docker build -t test-image .
 
-      - name: Run container test
+      - name: Run container
         run: |
           docker run -d -p 3000:3000 --name test test-image
           sleep 10
