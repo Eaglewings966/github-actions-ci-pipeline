@@ -1,0 +1,12 @@
+{
+  "name": "devops-demo-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for CI pipeline demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.test.js"
+  },
+  "author": "Emmanuel Ubani",
+  "license": "MIT"
+}
