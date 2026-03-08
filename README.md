@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # github-actions-ci-pipeline
 =======
 # GitHub Actions CI Pipeline
@@ -38,4 +38,4 @@ Run Tests → Lint Dockerfile → Build & Push Image
 Emmanuel Ubani — Cloud & DevOps Engineer
 LinkedIn: https://linkedin.com/in/ubaniemmanuel
 GitHub: https://github.com/Eaglewings966
->>>>>>> a0dc110 (feat: GitHub Actions CI pipeline with Docker build and push)
+a0dc110 (feat: GitHub Actions CI pipeline with Docker build and push)
